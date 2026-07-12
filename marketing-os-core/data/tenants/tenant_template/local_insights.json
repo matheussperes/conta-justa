@@ -1,0 +1,11 @@
+[
+  {
+    "confidence": 0.999767,
+    "created_at": "2026-07-12T00:57:27.738501+00:00",
+    "insight_id": "3e177437-4bc8-413b-8b1b-3abcf7e1a26e",
+    "scope": "LOCAL",
+    "source_experiment_id": "8328b177-d6d9-40ad-b5f7-a7f8f552ebcb",
+    "statement": "'explicit_save_cta' lifts 'saves_per_reach' by +45.7% (p=0.00023).",
+    "tenant_id": "tenant_template"
+  }
+]

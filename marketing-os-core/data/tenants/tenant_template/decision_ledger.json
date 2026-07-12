@@ -1,0 +1,42 @@
+[
+  {
+    "alternatives": [
+      {
+        "expected_performance": 0.9,
+        "option": "TREND: Viral audio about productivity myths",
+        "rejection_reason": null,
+        "selected": true,
+        "strategic_capital": 0.4
+      },
+      {
+        "expected_performance": 0.7,
+        "option": "SEASONAL: Mid-year planning season",
+        "rejection_reason": "Lower composite score than the selected opportunity.",
+        "selected": false,
+        "strategic_capital": 0.7
+      },
+      {
+        "expected_performance": 0.6,
+        "option": "COMMUNITY: Recurring DM question about pricing strategy",
+        "rejection_reason": "Lower composite score than the selected opportunity.",
+        "selected": false,
+        "strategic_capital": 0.9
+      }
+    ],
+    "content_format": "REEL",
+    "created_at": "2026-07-12T00:57:27.736861+00:00",
+    "decision_id": "1cd6e241-4a8a-4345-8330-f6a7064ef835",
+    "expected_performance_score": 0.9,
+    "framework": "hook-retention-cta",
+    "horizons": [
+      "H1",
+      "H3"
+    ],
+    "opportunity_id": "30de548c-0c6d-4bed-91ae-45d0d453309d",
+    "primary_objective": "Maximize saves and qualified reach",
+    "rationale": "Opportunity 'Viral audio about productivity myths' (TREND) holds the highest priority score (0.90). Format REEL fits its consumption pattern, and the 'hook-retention-cta' framework aligns with the primary objective while respecting the brand restrictions loaded from H1.",
+    "slot": "thursday-18h",
+    "strategic_capital_score": 0.4,
+    "tenant_id": "tenant_template"
+  }
+]

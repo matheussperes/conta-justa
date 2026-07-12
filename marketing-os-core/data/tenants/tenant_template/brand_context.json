@@ -1,0 +1,19 @@
+{
+  "tenant_id": "tenant_template",
+  "horizon": "H1",
+  "brand_dna": "Marca educativa e pragmática que transforma temas complexos em conteúdo acionável.",
+  "target_audience": "Empreendedores digitais de 25 a 40 anos que consomem conteúdo rápido no Instagram.",
+  "positioning": "Autoridade acessível: profundidade técnica com linguagem simples.",
+  "products": [
+    {
+      "name": "Mentoria Premium",
+      "description": "Acompanhamento estratégico mensal.",
+      "price": 1997.0
+    }
+  ],
+  "restrictions": [
+    "Nunca prometer resultados garantidos",
+    "Não usar áudios com direitos autorais restritos"
+  ],
+  "tone_of_voice": "Direto, confiante e bem-humorado, sem jargões."
+}

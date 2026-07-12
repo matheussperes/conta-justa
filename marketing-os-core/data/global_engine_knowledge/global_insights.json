@@ -1,0 +1,12 @@
+[
+  {
+    "channel": "instagram",
+    "confidence": 0.999767,
+    "derived_at": "2026-07-12T00:57:27.738547+00:00",
+    "insight_id": "41223c85-a9e0-4eec-941a-1e7efd75eb0d",
+    "lift": 0.456954,
+    "metric": "saves_per_reach",
+    "p_value": 0.00023263,
+    "variable": "explicit_save_cta"
+  }
+]
