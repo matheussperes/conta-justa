@@ -8,5 +8,15 @@
     "metric": "saves_per_reach",
     "p_value": 0.00023263,
     "variable": "explicit_save_cta"
+  },
+  {
+    "channel": "instagram",
+    "confidence": 0.999767,
+    "derived_at": "2026-07-14T03:29:06.148504+00:00",
+    "insight_id": "3dcdbc15-3d68-433c-bb0f-904ab488db5f",
+    "lift": 0.456954,
+    "metric": "saves_per_reach",
+    "p_value": 0.00023263,
+    "variable": "explicit_save_cta"
   }
 ]

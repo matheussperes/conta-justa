@@ -17,5 +17,24 @@
     },
     "slides": null,
     "tenant_id": "tenant_template"
+  },
+  {
+    "artifact_id": "8356a9e2-7d57-47e5-a415-128af465e9b0",
+    "caption": "Executed under framework 'hook-retention-cta' — objective: Maximize saves and qualified reach.",
+    "created_at": "2026-07-14T03:29:06.146725+00:00",
+    "decision_id": "43d7f062-9e53-4d61-b90d-5af585237416",
+    "format": "REEL",
+    "reel_script": {
+      "cta": "Save this reel and follow for the next experiment result.",
+      "hook_3s": "Stop scrolling: this is the mistake keeping your results stuck.",
+      "lines": [
+        "[0-3s] Hook on screen — delivery: Direto, confiante e bem-humorado, sem jargões.",
+        "[3-10s] Name the pain the audience recognizes immediately.",
+        "[10-20s] Show the counterintuitive insight behind the decision.",
+        "[20-28s] Give one actionable step the viewer can apply today."
+      ]
+    },
+    "slides": null,
+    "tenant_id": "tenant_template"
   }
 ]

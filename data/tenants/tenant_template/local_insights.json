@@ -7,5 +7,14 @@
     "source_experiment_id": "8328b177-d6d9-40ad-b5f7-a7f8f552ebcb",
     "statement": "'explicit_save_cta' lifts 'saves_per_reach' by +45.7% (p=0.00023).",
     "tenant_id": "tenant_template"
+  },
+  {
+    "confidence": 0.999767,
+    "created_at": "2026-07-14T03:29:06.148418+00:00",
+    "insight_id": "d8c2ff92-6f2e-46df-9581-d4f56b8622cc",
+    "scope": "LOCAL",
+    "source_experiment_id": "b36e8acb-18ce-4cba-8a47-fba02da9e387",
+    "statement": "'explicit_save_cta' lifts 'saves_per_reach' by +45.7% (p=0.00023).",
+    "tenant_id": "tenant_template"
   }
 ]
